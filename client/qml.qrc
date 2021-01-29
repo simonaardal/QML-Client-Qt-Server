@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>ConnectPage.qml</file>
+        <file>ControlsPage.qml</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>reload.jpg</file>
+        <file>reload.png</file>
+    </qresource>
+</RCC>
